@@ -1,7 +1,7 @@
 {
   "name": "laravel-omnipay/omnipay-wechatpay",
-  "type": "laravel-omnipay",
-  "description": "Wechat gateway for Omnipay payment processing laravel-omnipay",
+  "type": "library",
+  "description": "Wechat gateway for Omnipay payment processing llibrary",
   "keywords": [
     "wechat",
     "gateway",
